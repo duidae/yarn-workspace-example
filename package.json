@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/liba",
+    "packages/libb",
+    "packages/libc"
+  ]
+}

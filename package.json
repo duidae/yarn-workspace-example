@@ -6,7 +6,6 @@
   "license": "MIT",
   "workspaces": [
     "packages/liba",
-    "packages/libb",
-    "packages/libc"
+    "packages/libb"
   ]
 }

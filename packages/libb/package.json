@@ -1,9 +1,8 @@
 {
   "name": "libb",
-  "version": "1.0.0",
-
+  "version": "1.0.1",
   "dependencies": {
     "cross-env": "5.0.5",
-    "liba": "1.0.0"
+    "liba": "2.0.0"
   }
 }

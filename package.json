@@ -8,5 +8,8 @@
     "packages/liba",
     "packages/libb",
     "packages/libc"
-  ]
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
 }

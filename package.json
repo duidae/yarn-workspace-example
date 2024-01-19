@@ -10,7 +10,6 @@
     "packages/libc"
   ],
   "scripts": {
-    "changeset": "changeset",
     "publish:packages": "changeset publish",
     "version:packages": "changeset version"
   },
